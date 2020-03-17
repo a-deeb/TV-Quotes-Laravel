@@ -24,8 +24,8 @@ LMS-laravel is based as its name indicates in the framework laravel 5, and uses 
 
 ### Seeded Credentials
 -------------
-* User: admin
-* Pass: admin123
+* User: 
+* Pass: 
 
 
 ### Laravel Auth License
