@@ -13,10 +13,10 @@ Larabel MVC and Artisan Command Query Practice Application
 ### About
 LMS-laravel is a management system of educational content, want to facilitate the creation of a platform simple and intuitive.
 LMS-laravel is based as its name indicates in the framework laravel 5, and uses various packages created by other developers.
-* This application is still in development, if you want to collaborate with the development you can write to angelkurten@hotmail.com
+* This application is still in development, if you want to collaborate with the development you can write to amd.deeb@outlook.com
 
 ### Installation
-1. Run `git clone https://github.com/LMS-Laravel/LMS-Laravel.git LMS-Laravel`
+1. Run `git clone ...`
 2. From the projects root run `cp .env.example .env`
 3. Configure your `.env` file
 4. From the projects root run `php artisan app:install`
